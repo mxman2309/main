@@ -31,7 +31,7 @@ def main():
 
         if x == 2:
             y = decode(encode_password)
-            print("The encoded password is,",encode_password,", and the original password is",y,'.')
+            print("The encoded password is", encode_password, ", and the original password is", password, '.')
             continue
 
 
